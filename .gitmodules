@@ -1,0 +1,6 @@
+[submodule "kubuntu/konsole/nareshv"]
+	path = kubuntu/konsole/nareshv
+	url = git@github.com:nareshv/kde-konsole-colorschemes.git
+[submodule "kubuntu/konsole/dracula"]
+	path = kubuntu/konsole/dracula
+	url = git@github.com:dracula/konsole.git
