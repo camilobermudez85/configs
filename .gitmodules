@@ -4,3 +4,6 @@
 [submodule "kubuntu/konsole/dracula"]
 	path = kubuntu/konsole/dracula
 	url = git@github.com:dracula/konsole.git
+[submodule "kubuntu/bash/powerline-shell"]
+	path = kubuntu/bash/powerline-shell
+	url = git@github.com:b-ryan/powerline-shell.git
