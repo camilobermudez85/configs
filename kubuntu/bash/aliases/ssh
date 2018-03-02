@@ -1,0 +1,8 @@
+# SSH connections aliases
+
+# SSH connections
+alias ts='ssh cbermudez@ts $@'
+
+
+# SFTP Connections
+alias sftp-ts='sftp cbermudez@ts $@'

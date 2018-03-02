@@ -1,0 +1,4 @@
+# applications bash aliases
+
+alias v='vim $@'
+alias nv='nvim $@'
